@@ -1,0 +1,164 @@
+-----------------------------------------TEORIAS----------------------------------------------------------------------------------------
+-----------------------------------------CLASE 1----------------------------------------------------------------------------------------
+Tecnologia: Aplicacion de un conjunto de conocimientos y habilidades que permita resolver un problema determinado
+
+Informacion: La informacion esta constituida por un grupo de datos ordenados y supervisados
+
+Organizacion: Es un grupo social formado por personas, tareas y administracion, que interactuan en el marco de una estructura sistematica
+para cumplir con sus objetivos
+Clasificacion: 
+	Finalidad: con lucro -Empresas
+		   sin lucro -ONGs
+		   con fines administrativos(organismos gubernamentales)
+	Formalidad: Formales
+		    Informales
+	Grado de Centralizacion: Centralizadas
+				 Desentralizadas
+	Localizacion: Locales
+		      Nacionales
+		      Internacionales
+	Propiedad: Privada
+		   Publica
+	Toma de decisiones: Horizontales
+			    Verticales
+			    Red
+Cultura Organizacional: Posee un conjunto de valores, creencias, normas, lenguajes, conocimientos, codigos de comportamiento y forma de
+			actuar.
+	- Valores: Son las creencias o convicciones del grupo de personas que forman la organizacion.
+	- Visiones: Son las ideas que los lideres tienen sobre su futuro.
+	- Impulsores: Son las 
+
+----------------------- CLASE 2 ---------------------------------------------------------------------------------------------------------
+Piramide Organizacional: Es una division vertical que se refiere a la division de poder o de las tareas de decision.
+Niveles:
+ 	Superior o estrategico: 
+				. Proyecta las politicas y estrategias
+				. Determina los objetivos a largo plazo y el modo de interaccion con otras entidades
+				. Se toman decisiones que afectan a toda la organizacion
+				. Miembros: El presidente, el directorio, gerentes
+	Medio o tactico: 
+			. Coordina las actividades que se desarrollan en el nivel operativo, asi como las desiciones que se toman y que
+			  afectan a un sector, area o departamento especifico,
+			. Miembros: los gerentes de produccion, administracion de ventas, etc
+	Inferior u operatvo:
+			    . Realizar las tareas de forma eficaz que se realizan en la organizacion
+			    . Realizan las tareas programadas previamente programadas por el nivel medio
+			    . Miembros: Empleados administrativos, obreros, operarios
+
+Organigrmas: Es una representacion grafica de la estructura formal de una organizacion
+	    . Permite conocer la estructura de la organizacion.
+	    . Cada persona puede conocer su rol dentro del conjunto y sus posibilidades de ascenso
+	    . Puede detectar fallas
+
+Empresas: Es una organizacion que desarrolla actividades economicas, como producir y/o comercializar bienes, y/o brindar servicios con el
+	  objetivo de obtener beneficios economicos,
+	Funciones: 
+		   - Produccion: aprovisionamiento de los factores productivos como su posterior transformacion en bienes y servicios 
+		   - Comercializacion: Tiene como fin llegar al consumidor
+		   - RRHH: Organiza y gestiona el personal de la empresa
+		   - Financiacion: Captar los fondos necesarios para el funcionamiento de la empresa
+		   - Administracion: Se encarga de repartir tareas y asignar responsabilidades
+		   - IDI: Su objetivo es mejorar los procesos productivos
+
+	Clasificacion:
+		- Actividad: 
+			   - Primaria
+			   - Secundaria
+			   - Terciaria
+		- Tamaño: Grandes, medianas, pequeñas
+		- Capital: privado, publico, mixto
+		- Forma Juridica: Personales, personas juridicas: cooperativas, SA,SRL
+		- Ambito de Actividad: Locales, regionales, nacionales, trasnacionales.
+
+
+Empresas Tecnologicas: Se basan en el uso intensivo del conocimiento cientifico y tecnico para mantener su competitividad
+----------------------------------------------CLASE 3------------------------------------------------------------------------------------
+Proceso de negocios: Es un conjunto de actividades relacionadas en forma logica, define como se desempeñan las tareas especificas de
+		     negocios, representa una forma unica en que una organizacion coordina el trabajo, la informacion y el conocimiento.
+
+Sistemas de informacion: automatizan partes de los procesos de negocios y pueden ayudar a las organizaciones a rediseñar y hacer mas
+			 eficientes estos procesos
+
+AE = E + N  + T = ESTRATEGIA NEGOCIO TECNOLOGIA
+
+Arquitectura empresarial: Optimizar en toda organizacion los procesos que usualmente estan fracmentados en un entorno integrado que sea
+			  sensible a cambios y apoye la estrategia de negocio
+	Se basa en:
+		- Arquitectura de PN
+		- "" "" de software
+		- "" "" de infraestructura
+		- "" "" de infomacion
+		- "" "" de producto
+----------------------------------------CLASE 4------------------------------------------------------------------------------------------
+SaaS: Permite a los ususarios conectarse a aplicaciones basadas en la nube a traves de internet.
+Ventajas: - Menos inversion inicial y menos riesgo
+ 	  - Reduccion de costos
+	  - Actualizaciones y nuevas funcionalidades inmediatas
+          - Soporte agil y rapido
+	  - Centalizacionn de los esfuerzos de la empresa en su negocio
+Desventajas: 
+	  - Necesidad de disponibilidad de internet
+	  - Seguridad de los datos en la nube
+---------------------------------------CLASE 5-------------------------------------------------------------------------------------------
+Metodologias para el desarrollo de sistemas: 
+	- Metodologias Estructuradas: - Tecnicas orientada a los procesos mas que a los datos.
+				     - Son Utilizadas para el enfoque de ciclo de vida tradicional
+	- RUP: Metodologia que divide el proceso en 4 fases: 
+						- inicio
+						- Elaboracion
+						- Construccion
+						- Transicion
+		Metodologia iterativa con desarrollo incremental o en cascada
+		Se basa en diagramas UML.
+	- Desarrollo Orientado a objetos:
+				Se basa en la reutilizacion de componentes
+        - Metodologias agiles : Desarrollo de funciones en tiempos muy cortos.
+				Colaboracion entre Usuarios finales y especialistas en sistemas
+				Genera muy poca documentacion
+				Se basa en tecnicas como: Scrum, XP, JAD
+	- Reigenieria de Software: Tiene como fin de solucionar problemas como el envejecimiento del software
+
+La aplicacion de una metodologia estandariza el proceso, define roles y responsabilidades, aumenta la productividad, satisface mejor al
+usuario
+
+Sistema de versionado de Codigo: permite compartir el codigo fuente del desarrollo y mantener un registro a traves del tiempo los cambios
+realizados
+-------------------------------------CLASE 6---------------------------------------------------------------------------------------------
+Colaboracion: Es trabajar con otros para lograr objetivos compartidos, enfocado en realizar tareas o misiones. Los participantes tiene responsabilidades y una comunicacion constante
+Cooperacion: Implica ayudar o asistir a otros para alcanzar sus objetivos, los participantes no necesariamente comarten responsabilidades
+o se comunican constantemente
+
+Grupo de trabajo: Trabajo cooperativo - hay un lider - responsabilidad individual - se discute, se decide y se delega
+Equipo de trabajo: Trabajo colaborativo - liderazgo compartido - responsabilidad compartida - se discute, se decide y se trabaja en conjunto
+
+Soft Skills: Se refieren a un amplio conjunto de competencias, actitudes, comportamientos, actitudes y cualidades personales.
+------------------------------------CLASE 7----------------------------------------------------------------------------------------------
+Rol: Es la responsabilidad asignada a cada persona en un equipo de trabajo.
+
+Clasificacion del software:
+	.Software de sistema: - Su proposito es servir a otros programas
+			      - Se relaciona con el hardware y es empleado en diversos usuarios
+	.Software de programacion: 
+			      Representan al conjunto de programas que nos permite desarrollar, crear, y modificar otros programas.
+	.Software de aplicacion: 
+			      Es aquel que hace que el coopere con el usuario para realizar tareas especificas.
+			Clasificacion:
+			      - Software de productividad : Es aquel que nos permite a tener un mayor rendimiento y eficacia en 				determinadas tareas
+		              - "" "" de especialidad: Software a medidad para diferentes profesiones
+			      - "" "" de Entretenimiento: aquellas destinadas a hobbies y videojuegos.
+			      - "" "" Educativo: Destinado al aprendizaje
+			      - "" "" Hogareño(IOT): Destinado a la automatizacion de dispositivos del hogar, como electrodomesticos
+--------------------------------CLASE 8--------------------------------------------------------------------------------------------------
+Sistemas empresariales (ERP): Software destinado a la gestionar actividades empresariales diarias.
+-----------------------------------LICENCIAS DE SOFTWARE---------------------------------------------------------------------------------
+Licencia : Condicion para el uso, modificacion y distribucion
+El software no se vende, se licencia.
+Patente vs Licencia
+Patente: - Derecho de autor.
+	 - Protege al invetor
+Licencia: Consecion de derechos 
+
+Software Propietario: no exise una forma libre de acceso a su codigo fuente, no se permite su modificacion o adaptacion
+"" ""    Libre: Permite el acceso a al codigo fuente, permite su modificacion y adaptabilidad. Emplea cuestiones eticas a la comercializacion. Estas licencias pueden ser de tipo Copyleft que restringe su comercializacion.
+
+Open Source: Es un tipo de licenciamiento que no plante cuestiones eticas como lo hace el software libre haciendolo mas amigable a las empresas. 
